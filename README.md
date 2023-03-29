@@ -1,2 +1,2 @@
 # App de un caletario
-Es una peque app de un caletario
+Es una pequeña app de un caletario
