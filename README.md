@@ -1,2 +1,2 @@
-# comercio-electronico
-Es un comercio electronico,que esta consumiendo una api publica de productos relacionados a productos de comercio
+# App de un caletario
+Es una peque app de un caletario
